@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
@@ -92,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
