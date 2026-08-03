@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0682-baseball-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
 | [3834-merge-adjacent-equal-elements](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3834-merge-adjacent-equal-elements) |
 ## Math
@@ -19,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -103,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
