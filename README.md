@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
