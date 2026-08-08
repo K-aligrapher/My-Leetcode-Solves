@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3174-clear-digits) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
@@ -103,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2000-reverse-prefix-of-word) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0316-remove-duplicate-letters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
