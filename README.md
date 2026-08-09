@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0002-add-two-numbers) |
 | [0227-basic-calculator-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0227-basic-calculator-ii) |
+| [0279-perfect-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0518-coin-change-ii) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
