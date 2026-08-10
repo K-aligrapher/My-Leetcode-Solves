@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0001-two-sum) |
 | [0213-house-robber-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
@@ -217,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
