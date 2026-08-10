@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1510-stone-game-iv) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
