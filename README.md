@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0119-pascals-triangle-ii) |
 | [0213-house-robber-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0119-pascals-triangle-ii) |
 | [0213-house-robber-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0300-longest-increasing-subsequence) |
