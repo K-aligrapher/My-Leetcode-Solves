@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 | [0213-house-robber-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2000-reverse-prefix-of-word) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
