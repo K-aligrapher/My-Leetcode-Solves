@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3731-find-missing-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3834-merge-adjacent-equal-elements) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0001-two-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0300-longest-increasing-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
