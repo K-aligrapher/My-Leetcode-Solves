@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0119-pascals-triangle-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0047-permutations-ii) |
 | [0216-combination-sum-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0216-combination-sum-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3348-smallest-divisible-digit-product-ii) |
