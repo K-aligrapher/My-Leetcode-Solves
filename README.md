@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0509-fibonacci-number) |
+| [0593-valid-square](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0593-valid-square) |
 | [0877-stone-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -326,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
