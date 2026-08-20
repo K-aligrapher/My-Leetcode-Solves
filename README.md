@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0131-palindrome-partitioning) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0227-basic-calculator-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0876-middle-of-the-linked-list) |
@@ -319,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
