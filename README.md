@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
 | [1668-maximum-repeating-substring](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1668-maximum-repeating-substring) |
+| [1927-sum-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2000-reverse-prefix-of-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0316-remove-duplicate-letters) |
 | [1386-cinema-seat-allocation](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
