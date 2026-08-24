@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1563-stone-game-v) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
+| [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1668-maximum-repeating-substring) |
+| [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1927-sum-game) |
 ## Stack
 |  |
@@ -215,12 +219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -294,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
