@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1563-stone-game-v) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
 | [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0316-remove-duplicate-letters) |
 | [1386-cinema-seat-allocation](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
