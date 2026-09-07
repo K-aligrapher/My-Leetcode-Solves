@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3903-smallest-stable-index-i) |
@@ -393,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
