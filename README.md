@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1510-stone-game-iv) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0316-remove-duplicate-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
