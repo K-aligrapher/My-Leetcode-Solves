@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0518-coin-change-ii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3731-find-missing-elements) |
