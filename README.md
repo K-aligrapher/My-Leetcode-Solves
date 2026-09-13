@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1386-cinema-seat-allocation) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
 |  |
