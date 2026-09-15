@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1563-stone-game-v) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
+| [1672-richest-customer-wealth](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0835-image-overlap) |
+| [1672-richest-customer-wealth](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
 |  |
