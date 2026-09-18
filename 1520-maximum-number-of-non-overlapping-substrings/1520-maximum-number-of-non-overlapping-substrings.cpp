@@ -11,7 +11,7 @@ public:
         vector<int> leftmost(26, n);
         vector<int> rightmost(26, -1);
         
-        // Step 1: Record the boundary indices for each character
+        // Record the boundary indices for each character
         for (int i = 0; i < n; ++i) {
             leftmost[s[i] - 'a'] = min(leftmost[s[i] - 'a'], i);
             rightmost[s[i] - 'a'] = i;
@@ -19,7 +19,7 @@ public:
         
         vector<pair<int, int>> validIntervals;
         
-        // Step 2: Attempt to generate a valid interval starting at each char's first occurrence
+        // Attempt to generate a valid interval starting at each char's first occurrence
         for (int i = 0; i < 26; ++i) {
             if (leftmost[i] == n) continue; // Character doesn't exist
             
@@ -44,7 +44,7 @@ public:
             }
         }
         
-        // Step 3: Greedy choice (Interval Scheduling)
+        // Greedy choice (Interval Scheduling)
         sort(validIntervals.begin(), validIntervals.end());
         
         vector<string> result;
