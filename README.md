@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3174-clear-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3498-reverse-degree-of-a-string) |
 | [3834-merge-adjacent-equal-elements](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3834-merge-adjacent-equal-elements) |
 ## Two Pointers
 |  |
