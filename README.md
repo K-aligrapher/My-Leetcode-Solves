@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0383-ransom-note) |
 | [0657-robot-return-to-origin](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0940-distinct-subsequences-ii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0383-ransom-note) |
 | [2748-number-of-beautiful-pairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2748-number-of-beautiful-pairs) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
