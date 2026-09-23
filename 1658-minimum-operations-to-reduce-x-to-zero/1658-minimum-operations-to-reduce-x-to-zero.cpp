@@ -1,0 +1,29 @@
+class Solution {
+public:
+    int minOperations(vector<int>& nums, int x) {
+        int totalSum = accumulate(nums.begin(), nums.end(), 0);
+        int target = totalSum-x;
+
+        if(target == 0) return nums.size();
+        if(target<0) return -1;
+
+        int maxLen = -1;
+        int currentSum = 0;
+        int left = 0;
+        
+        for (int right = 0; right < nums.size(); ++right) {
+            currentSum += nums[right];
+            
+            while (currentSum > target && left <= right) {
+                currentSum -= nums[left];
+                left++;
+            }
+            
+            if (currentSum == target) {
+                maxLen = max(maxLen, right - left + 1);
+            }
+        }
+        
+        return (maxLen == -1) ? -1 : nums.size() - maxLen;
+    }
+};
