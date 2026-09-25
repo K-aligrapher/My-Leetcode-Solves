@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
 | [1544-make-the-string-great](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2000-reverse-prefix-of-word) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0771-jewels-and-stones) |
+| [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2733-neither-minimum-nor-maximum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2733-neither-minimum-nor-maximum) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0617-merge-two-binary-trees) |
+| [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -372,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
