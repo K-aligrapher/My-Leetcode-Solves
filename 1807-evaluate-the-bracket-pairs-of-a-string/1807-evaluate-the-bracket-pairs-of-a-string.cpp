@@ -24,7 +24,6 @@ public:
             } 
             else if (c == ')') {
                 inside_bracket = false;
-                // Look up the key in the map
                 auto it = dict.find(current_key);
                 if (it != dict.end()) {
                     result += it->second;
