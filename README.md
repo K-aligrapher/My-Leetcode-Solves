@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
 | [1668-maximum-repeating-substring](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1668-maximum-repeating-substring) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2000-reverse-prefix-of-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2748-number-of-beautiful-pairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2748-number-of-beautiful-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
