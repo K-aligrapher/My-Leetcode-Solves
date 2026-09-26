@@ -29,7 +29,7 @@ public:
                 } else {
                     result += '?';     
                 }
-                current_key = ""; // Reset for the next bracket pair
+                current_key = ""; 
             } 
             else {
                 // If we are inside brackets, we are building the key name
