@@ -7,7 +7,6 @@ using namespace std;
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        // 1. Build a fast lookup hash map from the knowledge base
         unordered_map<string, string> dict;
         for (const auto& pair : knowledge) {
             dict[pair[0]] = pair[1];
