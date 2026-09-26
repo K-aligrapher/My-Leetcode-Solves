@@ -31,7 +31,6 @@ public:
                 current_key = ""; 
             } 
             else {
-                // If we are inside brackets, we are building the key name
                 if (inside_bracket) {
                     current_key += c;
                 } else {
