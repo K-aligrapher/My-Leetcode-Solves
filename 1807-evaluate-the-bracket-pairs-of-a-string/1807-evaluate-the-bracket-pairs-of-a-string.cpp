@@ -17,7 +17,6 @@ public:
         string current_key = "";
         bool inside_bracket = false;
         
-        // 2. Parse the string in a single pass
         for (char c : s) {
             if (c == '(') {
                 inside_bracket = true;
