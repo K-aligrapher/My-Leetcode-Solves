@@ -27,9 +27,9 @@ public:
                 // Look up the key in the map
                 auto it = dict.find(current_key);
                 if (it != dict.end()) {
-                    result += it->second; // Key found
+                    result += it->second;
                 } else {
-                    result += '?';        // Key not found
+                    result += '?';     
                 }
                 current_key = ""; // Reset for the next bracket pair
             } 
