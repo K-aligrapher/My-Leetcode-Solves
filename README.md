@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
 | [1544-make-the-string-great](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3174-clear-digits) |
 | [3834-merge-adjacent-equal-elements](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3834-merge-adjacent-equal-elements) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1668-maximum-repeating-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1927-sum-game) |
@@ -491,4 +493,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0303-range-sum-query-immutable) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
