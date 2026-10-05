@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
 | [1544-make-the-string-great](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1544-make-the-string-great) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0383-ransom-note) |
 | [0657-robot-return-to-origin](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
@@ -496,5 +498,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
