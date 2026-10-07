@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0227-basic-calculator-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0383-ransom-note) |
 | [0657-robot-return-to-origin](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0657-robot-return-to-origin) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0617-merge-two-binary-trees) |
 | [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
