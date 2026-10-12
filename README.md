@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0227-basic-calculator-ii) |
+| [0290-word-pattern](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0383-ransom-note) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0383-ransom-note) |
