@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2733-neither-minimum-nor-maximum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2733-neither-minimum-nor-maximum) |
 | [2748-number-of-beautiful-pairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2748-number-of-beautiful-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2748-number-of-beautiful-pairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2748-number-of-beautiful-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0078-subsets) |
 | [0461-hamming-distance](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0461-hamming-distance) |
 | [1386-cinema-seat-allocation](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
