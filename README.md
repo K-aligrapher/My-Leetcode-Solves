@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1598-crawler-log-folder](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1598-crawler-log-folder) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1672-richest-customer-wealth) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0617-merge-two-binary-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0617-merge-two-binary-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String
 |  |
 | ------- |
@@ -443,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -504,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting
@@ -533,4 +540,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
