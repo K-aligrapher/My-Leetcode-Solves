@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1872-stone-game-viii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2733-neither-minimum-nor-maximum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2733-neither-minimum-nor-maximum) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Longest Increasing Subsequence
