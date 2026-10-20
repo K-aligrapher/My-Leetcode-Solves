@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-merge-adjacent-equal-elements](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3834-merge-adjacent-equal-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3886-sum-of-sortable-integers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3886-sum-of-sortable-integers) |
 ## Knapsack Problem
 |  |
 | ------- |
