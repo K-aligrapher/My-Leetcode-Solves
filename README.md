@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0617-merge-two-binary-trees) |
+| [1254-number-of-closed-islands](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0617-merge-two-binary-trees) |
 | [1096-brace-expansion-ii](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K-aligrapher/My-Leetcode-Solves/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
